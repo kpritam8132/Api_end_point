@@ -1,0 +1,49 @@
+{
+  "code": 200,
+  "message": "Service History found successfully",
+  "result": {
+    "vehicleNumber": "HR929626",
+    "serviceHistoryDetails": [
+      {
+        "labourAmount": 0,
+        "partAmount": 829.98,
+        "totalAmount": 829.98,
+        "dateOfBill": "06/09/2025",
+        "repairOrderDate": "06/09/2025",
+        "dealerAddress": "KHEWAT/ KHATA NO 714/909, VILLAGE JHARSA, UNITECH CYBER PARK ROAD, SECTOR 39, GURGAON, HARYANA 122001",
+        "groupOfParent": "QUTAB",
+        "srVehicleCd": "RR",
+        "cdLoc": "UCP",
+        "nameOfSA": "PANKAJ KUMAR",
+        "noOfJobCard": "JC25001713",
+        "dateOfSVC": "06/09/2025",
+        "noOfRO": "BC/25001622",
+        "dealerName": "QUTAB AUTO PVT LTD",
+        "dealerNo": 11658,
+        "mileage": 83720,
+        "serviceType": "RUNNING REPAIR",
+        "typOfPayment": null
+      },
+      {
+        "labourAmount": 6698.86,
+        "partAmount": 6831.7,
+        "totalAmount": 13530.56,
+        "dateOfBill": "02/07/2024",
+        "repairOrderDate": "02/07/2024",
+        "dealerAddress": "PLOT NO.5, I.D.C., OPPOSITE SECTOR-14,",
+        "groupOfParent": "PREM",
+        "srVehicleCd": "PMS",
+        "cdLoc": "URG",
+        "nameOfSA": "LOVE SHANKER PANDEY",
+        "noOfJobCard": "JC24004980",
+        "dateOfSVC": "02/07/2024",
+        "noOfRO": "BR/24003425",
+        "dealerName": "PREM MOTORS PVT. LTD.",
+        "dealerNo": 12811,
+        "mileage": 73700,
+        "serviceType": "PAID SERVICE",
+        "typOfPayment": null
+      }
+    ]
+  }
+}

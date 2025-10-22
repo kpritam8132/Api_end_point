@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "message": "Service History found successfully",
+  "result": {
+    "vehicleNumber": "GA03P4921",
+    "serviceHistoryDetails": [
+      {
+        "dealerName": "COUNTO AUTOMOBILE PVT LTD",
+        "totalAmmount": "13467",
+        "dateOfSVC": "15/12/2023",
+        "dealerNo": "W6201",
+        "serviceType": "PS",
+        "noOfRo": "R202314319",
+        "mileAge": "14952",
+        "typeOfPayment": "Credit"
+      },
+      {
+        "dealerName": "COUNTO AUTOMOBILE PVT LTD",
+        "totalAmmount": "13384",
+        "dateOfSVC": "15/12/2022",
+        "dealerNo": "W6201",
+        "serviceType": "PS",
+        "noOfRo": "R202213751",
+        "mileAge": "14239",
+        "typeOfPayment": "Credit"
+      }
+    ]
+  }
+}
